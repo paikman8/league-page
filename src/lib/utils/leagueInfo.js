@@ -4,10 +4,7 @@ export const leagueName = "Jefferson's Justice"; // your league name
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
-export const leagueID = "992214822856740864"; // your league ID
-export const leagueName = "Jefferson's Justice"; // your league name
-export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
-export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
+
 /*   STEP 2   */
 export const homepageText = `
   <p>This is the Nichols Family Sleeper League.</p>
