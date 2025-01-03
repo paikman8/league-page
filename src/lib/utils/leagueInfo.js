@@ -2,6 +2,7 @@
 export const leagueID = "1112942364496134144"; // your league ID
 export const leagueName = "Jefferson's Justice"; // your league name
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
+export const dues = false;
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 
